@@ -6,50 +6,8 @@
       Local="Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
       Remote="../new2/Content/Resources/Images/Backmatter-Heading-Background.png" />
     <Map
-      Local="../../Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
-      Remote="../new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm" />
-    <Map
-      Local="Content/Resources/Images/Backmatter-Heading-Background.png"
-      Remote="../new2/Content/Resources/Images/Hero-Image-Print.png" />
-    <Map
-      Local="Content/Resources/Images/Hero-Image-Print.png"
-      Remote="../new2/Content/Resources/Images/Icon-Checkbox.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-Checkbox.png"
-      Remote="../new2/Content/Resources/Images/Icon-Download.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-Download.png"
-      Remote="../new2/Content/Resources/Images/Icon-Forum.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-Forum.png"
-      Remote="../new2/Content/Resources/Images/Icon-Gears.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-Gears.png"
-      Remote="../new2/Content/Resources/Images/Icon-PDFs.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-PDFs.png"
-      Remote="../new2/Content/Resources/Images/Icon-Popular-Topics.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-Popular-Topics.png"
-      Remote="../new2/Content/Resources/Images/Icon-Videos.png" />
-    <Map
-      Local="Content/Resources/Images/Icon-Videos.png"
-      Remote="../new2/Content/Resources/Images/Logo.eps" />
-    <Map
-      Local="Content/Resources/Images/Logo.eps"
-      Remote="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire.png" />
-    <Map
-      Local="Content/Resources/Images/About Risk/About Quantitative Wildfire.png"
-      Remote="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png" />
-    <Map
-      Local="Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png"
-      Remote="../new2/Content/Home.htm" />
-    <Map
       Local="Content/Home.htm"
       Remote="../new2/Content/Template Instructions.pdf" />
-    <Map
-      Local="Content/Template Instructions.pdf"
-      Remote="../new2/Content/A-Introduction-Topics/Getting-Started.htm" />
     <Map
       Local="Content/A-Introduction-Topics/Getting-Started.htm"
       Remote="../new2/Content/A-Introduction-Topics/More-Information.htm" />
@@ -95,6 +53,48 @@
     <Map
       Local="Content/E-Frontmatter-Topics/Title.htm"
       Remote="../new2/Content/Resources/Images/Hero-Image.png" />
+    <Map
+      Local="../../Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      Remote="../new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm" />
+    <Map
+      Local="Content/Resources/Images/Backmatter-Heading-Background.png"
+      Remote="../new2/Content/Resources/Images/Hero-Image-Print.png" />
+    <Map
+      Local="Content/Resources/Images/Hero-Image-Print.png"
+      Remote="../new2/Content/Resources/Images/Icon-Checkbox.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Checkbox.png"
+      Remote="../new2/Content/Resources/Images/Icon-Download.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Download.png"
+      Remote="../new2/Content/Resources/Images/Icon-Forum.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Forum.png"
+      Remote="../new2/Content/Resources/Images/Icon-Gears.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Gears.png"
+      Remote="../new2/Content/Resources/Images/Icon-PDFs.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-PDFs.png"
+      Remote="../new2/Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Popular-Topics.png"
+      Remote="../new2/Content/Resources/Images/Icon-Videos.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Videos.png"
+      Remote="../new2/Content/Resources/Images/Logo.eps" />
+    <Map
+      Local="Content/Resources/Images/Logo.eps"
+      Remote="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire.png" />
+    <Map
+      Local="Content/Resources/Images/About Risk/About Quantitative Wildfire.png"
+      Remote="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png" />
+    <Map
+      Local="Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png"
+      Remote="../new2/Content/Home.htm" />
+    <Map
+      Local="Content/Template Instructions.pdf"
+      Remote="../new2/Content/A-Introduction-Topics/Getting-Started.htm" />
     <Map
       Local="Content/Resources/Images/Hero-Image.png"
       Remote="../new2/Content/Resources/Images/Logo.png" />
