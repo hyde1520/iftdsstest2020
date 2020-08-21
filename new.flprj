@@ -1,3 +1,172 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" xml:lang="en-us" SourceControlBound="false" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" Comment="This template contains starter topics and other files designed for an online knowledge base in HTML5 format. It includes a skin and styles that make the output responsive, which means the content display changes automatically depending on the width of the screen." MasterStylesheetOverride="True">
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  Comment="This template contains starter topics and other files designed for an online knowledge base in HTML5 format. It includes a skin and styles that make the output responsive, which means the content display changes automatically depending on the width of the screen."
+  MasterStylesheetOverride="True"
+  IncludePattern="*.htm;*.html;*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf;*.flsnp"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2020-08-21T10:43:37.0406255-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/new2.flprj"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/new2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm" />
+    <Url
+      Source="../new2/Content/Resources/Images/Backmatter-Heading-Background.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Hero-Image-Print.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Hero-Image-Print.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-Checkbox.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-Checkbox.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-Download.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-Download.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-Forum.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-Forum.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-Gears.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-Gears.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-PDFs.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-PDFs.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-Popular-Topics.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Icon-Videos.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Icon-Videos.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Logo.eps"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Logo.eps" />
+    <Url
+      Source="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/About Risk/About Quantitative Wildfire.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../new2/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Home.htm" />
+    <Url
+      Source="../new2/Content/A-Introduction-Topics/Getting-Started.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/Getting-Started.htm" />
+    <Url
+      Source="../new2/Content/A-Introduction-Topics/More-Information.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/More-Information.htm" />
+    <Url
+      Source="../new2/Content/A-Introduction-Topics/Whats-New.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/Whats-New.htm" />
+    <Url
+      Source="../new2/Content/B-Feature-Topics/Feature1.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature1.htm" />
+    <Url
+      Source="../new2/Content/B-Feature-Topics/Feature2.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature2.htm" />
+    <Url
+      Source="../new2/Content/B-Feature-Topics/Feature3.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature3.htm" />
+    <Url
+      Source="../new2/Content/B-Feature-Topics/Features.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Features.htm" />
+    <Url
+      Source="../new2/Content/C-Procedure-Topics/Procedure1.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure1.htm" />
+    <Url
+      Source="../new2/Content/C-Procedure-Topics/Procedure2.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure2.htm" />
+    <Url
+      Source="../new2/Content/C-Procedure-Topics/Procedure3.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure3.htm" />
+    <Url
+      Source="../new2/Content/C-Procedure-Topics/Procedures.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedures.htm" />
+    <Url
+      Source="../new2/Content/D-Reference/Company.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/Company.htm" />
+    <Url
+      Source="../new2/Content/D-Reference/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/FAQs.htm" />
+    <Url
+      Source="../new2/Content/D-Reference/Tips.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/Tips.htm" />
+    <Url
+      Source="../new2/Content/E-Frontmatter-Topics/Title.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/E-Frontmatter-Topics/Title.htm" />
+    <Url
+      Source="../new2/Content/Template Instructions.pdf"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Template Instructions.pdf" />
+    <Url
+      Source="../new2/Content/Resources/Images/Hero-Image.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Logo.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Logo.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Minus.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Minus.png" />
+    <Url
+      Source="../new2/Content/Resources/Images/Plus.png"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Resources/Images/Plus.png" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      TimeStamp="8/21/2020 10:22:59" />
+    <Url
+      Source="Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      TimeStamp="8/21/2020 10:22:59" />
+    <Url
+      Source="Content/Resources/Images/Backmatter-Heading-Background.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Hero-Image-Print.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-Checkbox.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-Download.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-Forum.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-Gears.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-PDFs.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-Popular-Topics.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Icon-Videos.png"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/Logo.eps"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="Content/Resources/Images/About Risk/About Quantitative Wildfire.png"
+      TimeStamp="8/21/2020 10:21:44" />
+    <Url
+      Source="Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png"
+      TimeStamp="8/21/2020 10:21:44" />
+  </GeneratedFiles>
 </CatapultProject>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  Comment="This template contains starter topics and other files designed for an online knowledge base in HTML5 format. It includes a skin and styles that make the output responsive, which means the content display changes automatically depending on the width of the screen."
+  MasterStylesheetOverride="True"
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2020-08-21T10:47:58.2459989-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/new2.flprj"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/new2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm" />
+    <Url
+      Source="../../../new2/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Home.htm" />
+    <Url
+      Source="../../../new2/Content/A-Introduction-Topics/Getting-Started.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/Getting-Started.htm" />
+    <Url
+      Source="../../../new2/Content/A-Introduction-Topics/More-Information.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/More-Information.htm" />
+    <Url
+      Source="../../../new2/Content/A-Introduction-Topics/Whats-New.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/Whats-New.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Feature1.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature1.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Feature2.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature2.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Feature3.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature3.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Features.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Features.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedure1.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure1.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedure2.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure2.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedure3.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure3.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedures.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedures.htm" />
+    <Url
+      Source="../../../new2/Content/D-Reference/Company.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/Company.htm" />
+    <Url
+      Source="../../../new2/Content/D-Reference/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/FAQs.htm" />
+    <Url
+      Source="../../../new2/Content/D-Reference/Tips.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/Tips.htm" />
+    <Url
+      Source="../../../new2/Content/E-Frontmatter-Topics/Title.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/E-Frontmatter-Topics/Title.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../new2/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/Home.htm" />
+    <Url
+      Source="../../../new2/Content/A-Introduction-Topics/Getting-Started.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/Getting-Started.htm" />
+    <Url
+      Source="../../../new2/Content/A-Introduction-Topics/More-Information.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/More-Information.htm" />
+    <Url
+      Source="../../../new2/Content/A-Introduction-Topics/Whats-New.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/A-Introduction-Topics/Whats-New.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Feature1.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature1.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Feature2.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature2.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Feature3.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Feature3.htm" />
+    <Url
+      Source="../../../new2/Content/B-Feature-Topics/Features.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/B-Feature-Topics/Features.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedure1.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure1.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedure2.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure2.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedure3.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedure3.htm" />
+    <Url
+      Source="../../../new2/Content/C-Procedure-Topics/Procedures.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/C-Procedure-Topics/Procedures.htm" />
+    <Url
+      Source="../../../new2/Content/D-Reference/Company.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/Company.htm" />
+    <Url
+      Source="../../../new2/Content/D-Reference/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/FAQs.htm" />
+    <Url
+      Source="../../../new2/Content/D-Reference/Tips.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/D-Reference/Tips.htm" />
+    <Url
+      Source="../../../new2/Content/E-Frontmatter-Topics/Title.htm"
+      AbsoluteSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new2/Content/E-Frontmatter-Topics/Title.htm" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      TimeStamp="8/21/2020 10:22:59" />
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/A-Introduction-Topics/Getting-Started.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/A-Introduction-Topics/More-Information.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/A-Introduction-Topics/Whats-New.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/B-Feature-Topics/Feature1.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/B-Feature-Topics/Feature2.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/B-Feature-Topics/Feature3.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/B-Feature-Topics/Features.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/C-Procedure-Topics/Procedure1.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/C-Procedure-Topics/Procedure2.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/C-Procedure-Topics/Procedure3.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/C-Procedure-Topics/Procedures.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/D-Reference/Company.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/D-Reference/FAQs.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/D-Reference/Tips.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+    <Url
+      Source="../../Content/E-Frontmatter-Topics/Title.htm"
+      TimeStamp="2/26/2020 16:28:30" />
+  </GeneratedFiles>
+</CatapultProject>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileLanguage="en-us"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Images/About Risk/About Quantitative Wildfire.png" />
+    <Link
+      Url="http://192.255.42.9/firenetHelp/help/pageHelp/content/20-models/lbp/about.htm" />
+    <Link
+      Url="http://192.255.42.9/firenetHelp/help/pageHelp/content/30-tasks/qwra_ea/mapvalues/hvraabout.htm" />
+    <Link
+      Url="http://192.255.42.9/firenetHelp/help/pageHelp/content/30-tasks/qwra_ea/exposureanalysis/overview.htm" />
+    <Link
+      Url="Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png" />
+    <Link
+      Url="https://firenet365.sharepoint.com/:w:/r/sites/IFTDSS_Non_Gov/Shared Documents/General/IBM IFTDSS/IFTDSS Development/Help/Risk Assessment/Risk/Risk Response Functions.docx" />
+    <Link
+      Url="https://firenet365.sharepoint.com/:w:/r/sites/IFTDSS_Non_Gov/Shared Documents/General/IBM IFTDSS/IFTDSS Development/Help/Risk Assessment/Risk/Risk Relative Importance.docx" />
+    <Link
+      Url="https://www.fs.fed.us/rm/pubs/rmrs_gtr315.pdf" />
+    <Link
+      Url="https://www.fs.fed.us/rmrs/groups/wildfire-risk-management-science-team" />
+    <Link
+      Url="http://pyrologix.com/publications/" />
+    <Link
+      Url="https://iftdss.firenet.gov/landing_page/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Images/About Risk/About Quantitative Wildfire.png" />
+    <Link
+      Url="http://192.255.42.9/firenetHelp/help/pageHelp/content/20-models/lbp/about.htm?tocpath=Modeling%7CLandscape%20Burn%20Probability%20(LBP)%7C_____1" />
+    <Link
+      Url="http://192.255.42.9/firenetHelp/help/pageHelp/content/30-tasks/qwra_ea/mapvalues/hvraabout.htm?tocpath=Cycle%7CStrategic%20Planning%7CMap%20Values%7C_____1" />
+    <Link
+      Url="http://192.255.42.9/firenetHelp/help/pageHelp/content/30-tasks/qwra_ea/exposureanalysis/overview.htm?tocpath=Cycle%7CStrategic%20Planning%7CHazard%2C%20Exposure%2C%20Risk%7CExposure%20Analysis%7C_____1" />
+    <Link
+      Url="Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png" />
+    <Link
+      Url="https://firenet365.sharepoint.com/:w:/r/sites/IFTDSS_Non_Gov/Shared Documents/General/IBM IFTDSS/IFTDSS Development/Help/Risk Assessment/Risk/Risk Response Functions.docx?d=wef82b11e3049d28e1089fea47356485f&amp;csf=1&amp;web=1&amp;e=9ZRtwR" />
+    <Link
+      Url="https://firenet365.sharepoint.com/:w:/r/sites/IFTDSS_Non_Gov/Shared Documents/General/IBM IFTDSS/IFTDSS Development/Help/Risk Assessment/Risk/Risk Relative Importance.docx?d=w206bbc677837490dac52a240b6f95c27&amp;csf=1&amp;web=1&amp;e=KmSCKW" />
+    <Link
+      Url="https://www.fs.fed.us/rm/pubs/rmrs_gtr315.pdf" />
+    <Link
+      Url="https://www.fs.fed.us/rmrs/groups/wildfire-risk-management-science-team" />
+    <Link
+      Url="http://pyrologix.com/publications/" />
+    <Link
+      Url="https://iftdss.firenet.gov/landing_page/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

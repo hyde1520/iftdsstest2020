@@ -1,6 +1,114 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalImportedFilesCache
-  SavedSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/new/Output/Josh_RDA/Temporary/GlobalImportedFilesSet v.1.xml">
-  <ImportedMap />
-  <SourceUrls />
+  SavedSource="file:///C:/Users/Josh RDA/Desktop/ProjectCopy/newproject/Output/Josh_RDA/Temporary/GlobalImportedFilesSet v.1.xml">
+  <ImportedMap>
+    <Map
+      Local="Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      Remote="../new2/Content/Resources/Images/Backmatter-Heading-Background.png" />
+    <Map
+      Local="../../Content/F-Risk-Mgt/About Quantitative Wildfire.htm"
+      Remote="../new2/Content/F-Risk-Mgt/About Quantitative Wildfire.htm" />
+    <Map
+      Local="Content/Resources/Images/Backmatter-Heading-Background.png"
+      Remote="../new2/Content/Resources/Images/Hero-Image-Print.png" />
+    <Map
+      Local="Content/Resources/Images/Hero-Image-Print.png"
+      Remote="../new2/Content/Resources/Images/Icon-Checkbox.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Checkbox.png"
+      Remote="../new2/Content/Resources/Images/Icon-Download.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Download.png"
+      Remote="../new2/Content/Resources/Images/Icon-Forum.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Forum.png"
+      Remote="../new2/Content/Resources/Images/Icon-Gears.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Gears.png"
+      Remote="../new2/Content/Resources/Images/Icon-PDFs.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-PDFs.png"
+      Remote="../new2/Content/Resources/Images/Icon-Popular-Topics.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Popular-Topics.png"
+      Remote="../new2/Content/Resources/Images/Icon-Videos.png" />
+    <Map
+      Local="Content/Resources/Images/Icon-Videos.png"
+      Remote="../new2/Content/Resources/Images/Logo.eps" />
+    <Map
+      Local="Content/Resources/Images/Logo.eps"
+      Remote="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire.png" />
+    <Map
+      Local="Content/Resources/Images/About Risk/About Quantitative Wildfire.png"
+      Remote="../new2/Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png" />
+    <Map
+      Local="Content/Resources/Images/About Risk/About Quantitative Wildfire_1.png"
+      Remote="../new2/Content/Home.htm" />
+    <Map
+      Local="Content/Home.htm"
+      Remote="../new2/Content/Template Instructions.pdf" />
+    <Map
+      Local="Content/Template Instructions.pdf"
+      Remote="../new2/Content/A-Introduction-Topics/Getting-Started.htm" />
+    <Map
+      Local="Content/A-Introduction-Topics/Getting-Started.htm"
+      Remote="../new2/Content/A-Introduction-Topics/More-Information.htm" />
+    <Map
+      Local="Content/A-Introduction-Topics/More-Information.htm"
+      Remote="../new2/Content/A-Introduction-Topics/Whats-New.htm" />
+    <Map
+      Local="Content/A-Introduction-Topics/Whats-New.htm"
+      Remote="../new2/Content/B-Feature-Topics/Feature1.htm" />
+    <Map
+      Local="Content/B-Feature-Topics/Feature1.htm"
+      Remote="../new2/Content/B-Feature-Topics/Feature2.htm" />
+    <Map
+      Local="Content/B-Feature-Topics/Feature2.htm"
+      Remote="../new2/Content/B-Feature-Topics/Feature3.htm" />
+    <Map
+      Local="Content/B-Feature-Topics/Feature3.htm"
+      Remote="../new2/Content/B-Feature-Topics/Features.htm" />
+    <Map
+      Local="Content/B-Feature-Topics/Features.htm"
+      Remote="../new2/Content/C-Procedure-Topics/Procedure1.htm" />
+    <Map
+      Local="Content/C-Procedure-Topics/Procedure1.htm"
+      Remote="../new2/Content/C-Procedure-Topics/Procedure2.htm" />
+    <Map
+      Local="Content/C-Procedure-Topics/Procedure2.htm"
+      Remote="../new2/Content/C-Procedure-Topics/Procedure3.htm" />
+    <Map
+      Local="Content/C-Procedure-Topics/Procedure3.htm"
+      Remote="../new2/Content/C-Procedure-Topics/Procedures.htm" />
+    <Map
+      Local="Content/C-Procedure-Topics/Procedures.htm"
+      Remote="../new2/Content/D-Reference/Company.htm" />
+    <Map
+      Local="Content/D-Reference/Company.htm"
+      Remote="../new2/Content/D-Reference/FAQs.htm" />
+    <Map
+      Local="Content/D-Reference/FAQs.htm"
+      Remote="../new2/Content/D-Reference/Tips.htm" />
+    <Map
+      Local="Content/D-Reference/Tips.htm"
+      Remote="../new2/Content/E-Frontmatter-Topics/Title.htm" />
+    <Map
+      Local="Content/E-Frontmatter-Topics/Title.htm"
+      Remote="../new2/Content/Resources/Images/Hero-Image.png" />
+    <Map
+      Local="Content/Resources/Images/Hero-Image.png"
+      Remote="../new2/Content/Resources/Images/Logo.png" />
+    <Map
+      Local="Content/Resources/Images/Logo.png"
+      Remote="../new2/Content/Resources/Images/Minus.png" />
+    <Map
+      Local="Content/Resources/Images/Minus.png"
+      Remote="../new2/Content/Resources/Images/Plus.png" />
+  </ImportedMap>
+  <SourceUrls>
+    <Url
+      Source="Project/Imports/new2.flimpfl" />
+    <Url
+      Source="Project/Imports/new3.flimpfl" />
+  </SourceUrls>
 </CatapultGlobalImportedFilesCache>
